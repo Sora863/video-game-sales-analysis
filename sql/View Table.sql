@@ -1,0 +1,1 @@
+SELECT * FROM video_game_sales_db.video_game_sales;
