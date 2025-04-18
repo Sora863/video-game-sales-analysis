@@ -15,10 +15,10 @@ Analyze sales data across platforms, genres, and critic reviews to uncover what 
 
 ### 📁 File Structure
 - `sql/` – All SQL queries used in the project
-- `data/` – Cleaned CSV file used for import *(optional to upload)*
+- `data/` – Cleaned CSV file used for import 
 - `tableau/` – Screenshot of dashboard and Tableau Public link
 
 ### 📊 Tableau Dashboard
-[View Tableau Public Dashboard](#)
+[View Tableau Public Dashboard](https://public.tableau.com/app/profile/achmidt.pierre.louis/viz/VideoGameSalesAnalysisSQLTableauProject/VideoGameSalesInsightsPlatformGenreandCriticImpact)
 
 ---
